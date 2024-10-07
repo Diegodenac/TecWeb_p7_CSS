@@ -25,15 +25,15 @@ body{
     height: 150px;
     background: hsl(69, 70%, 50%);
 }
- #foo{
-    color: yellow;
- }
- a[title]{
+a[title]{
     color: blue;
- }
- button:hover{
+}
+button:hover{
     background-color: aqua;
- }
- input:disabled{
+}
+input:disabled{
     border: 2px solid orangered;
- }
+}
+#foo{
+    color: yellow;
+}
