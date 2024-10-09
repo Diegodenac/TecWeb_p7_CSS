@@ -40,9 +40,7 @@ input:disabled{
 #foo{
     color: yellow;
 }
-/*
-    Segunda practica CSS
-*/
+
 .abuelo .nieto{
     color: red;
 }
