@@ -40,3 +40,39 @@ input:disabled{
 #foo{
     color: yellow;
 }
+/*
+    Segunda practica CSS
+*/
+.abuelo .nieto{
+    color: red;
+}
+.hijo, .nieto{
+    color: aqua;
+}
+.abuelo>div{
+    color: green;
+}
+.hermano1~div{
+    color: violet;
+}
+hr{
+    padding: 0.5px;
+    background-color: yellow;
+}
+
+.foo{
+    color: blue;
+}
+#bar{
+    color: red;
+}
+div{
+    background-color: #000;
+}
+#outer a{
+    background-color: rebeccapurple;
+    color: white;
+}
+#outer #inner a{
+    background-color: aqua;
+}
